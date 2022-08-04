@@ -1,0 +1,32 @@
+main {
+    width: 800px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+        sans-serif;
+}
+img {
+    display: block;
+    height: 200px;
+    margin-left: calc((800px - 267px) / 2);
+}
+p {
+    padding: 10px;
+}
+
+button {
+    background-color: burlywood;
+    padding: 5px;
+    border-radius: 2px;
+    border: none;
+    margin: 20px 10px;
+}
+
+.text {
+    padding: 10px;
+}
+
+.image {
+    display: block;
+    height: 200px;
+    margin-left: calc((800px - 267px) / 2);
+    float: left;
+}
